@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>K.B.M.Tahmiduzzaman</title>
+    <meta name="keywords" content="K.B.M.Tahmiduzzaman" />
+    <meta name="description" content="K.B.M.Tahmiduzzaman's Home Page" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body bgcolor="#CAF3F8">
+    
+
+    <div id="info">
+    <table style="width:100%">
+      <tr>
+      <td>
+          <h1>K.B.M.Tahmiduzzaman</h1>
+	<h4>Bachelor in Computer Science and Engineering</h4>
+          <p>
+          <a href="http://www.uap-bd.edu/">Department of Computer Science and Engineering</a><br />
+          Daffodil International University, Dhaka<br />
+          </p>
+
+          <p>
+          <strong>Address</strong>: Dhaka<br />
+          <strong>Email</strong>: tahmiduzzaman15-11150@diu.edu.bd<br />
+	  <a  href="https://twitter.com/showmik_kr">Twitter :showmik_kr </a><br/>
+	  <a  href="https://www.linkedin.com/in/k-b-m-tahmiduzzaman-a043291b4">Linkedin:k-b-m-tahmiduzzaman </a><br/>
+          <strong>Phone</strong>: (+880)1773945157
+          </p>
+
+          
+      </td>
+      <td align="right">
+          <img src="c.jpg" width="256" class="hide-on-mobile" alt="headshot" />
+      </td>
+      </tr>
+    </table>
+    </div>
+
+    <div id="about" class="main">
+    <h3>About Me :</h3>
+
+    <p>Hey, I am K.B.M.Tahmiduzzaman.I am From Natore,Rajshahi.My schooling was at my village.And I complete my Collage at Rajshahi .Now I am a student of Computer Science and Engineering at <a href="http://www.daffodilvarsity.edu.bd/">Daffodil International University</a>.
+    .And I am happy to study  here.I am Strongly interest to face challenge.And I prefear to work Smartly.(Thank You)
+	
+	<h4>Projects :</h4>
+
+    <ul>
+    <li>Created a File project in C++</li>
+    <li>Created a Android App for Food list</li>
+	 <li>Hospital management System with java and Database </li>
+    </ul>
+    </div>
+<h3>Educationaal Qualifications :</h3>
+	<p> <ul>
+    <li>Higher Secondary Certificate Exam 2016 Result:GPA4.80</li>
+    <li>Institute:Varendra Collage Rajshahi</li>
+	<li>Secondary School Certificate Exam 2014 Result:GPA5.00</li>
+    <li>Institute:Bildhor High School</li>
+	</p>
+	
+	<h4>Main Courses :</h4>
+	<p> <ul>
+    <li>Introduction to C,C++,JAVA,PYTHON</li>
+    <li>Algorithm,Data Structures</li>
+	<li>DataBase Management System</li>
+    <li>Digital Logic And System Design,Microprocessor</li>
+	</p>
+    
+    </ul>
+    
+<h3>Research :</h3>
+	<p>My research interests include Networking,cyber Sequrty,Web Development,
+    My upcoming research focuses on related topics.</p>
+
+    
+    </div>
+
+<h3>Social Activity :</h3>
+
+    <ul>
+    <li>Brac trainee at (2011)</li>
+    <li>Worked as a Regular Blood Donor In Badhon </li>
+    <li>Tree plantation campain</li>
+    </ul>
+    </div>
+<h3>Extra Skills :</h3>
+
+    <ul>
+    <li>Graphics design</li>
+    <li>PhotoGraphy </li>
+    <li>Adopting an environment</li>
+    </ul>
+    </div>
+<h3> Hobbies :</h3>
+
+    <ul>
+    <li>Traveling, Hunting, Reading Newspaper,Hill Tracking, Playing cricket, football ,Online gane  and  Photography etc</li>
+    </ul>
+    </div>
+<h3> Dreams Job :</h3>
+
+    <ul>
+    <li>Work at A High class Multinational Company</li>
+    <li>Work at IT Sector </li>
+    </ul>
+    </div>
+<h3> professional goal :</h3>
+
+    <ul>
+    <li>Established a Business</li>
+    </ul>
+    </div>
+
+<h2>Thank You</h2>
+    
+  </body>
+</html>
+
+
